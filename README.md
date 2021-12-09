@@ -1,6 +1,24 @@
-# Vue-大屏可视化
-Vue + DataV + ElementUI
+# device_big_screen
 
-适配采用libflexible + px2rem
+## Project setup
+```
+npm install
+```
 
-通用大屏模板，该项目只是一个架子
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
